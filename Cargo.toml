@@ -12,7 +12,7 @@ homepage = "https://github.com/sunshine-protocol/dart-bindgen"
 license-file = "LICENSE"
 
 [dependencies]
-clang = "0.24.0"
+clang = "2.0.0"
 thiserror = "^1.0"
 log = "^0.4"
 # CLI Deps
